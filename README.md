@@ -48,4 +48,4 @@ npx expo start
 Escanea el código QR con Expo Go en tu dispositivo o emula la aplicación en un simulador.
 
 
-
+https://github.com/user-attachments/assets/41f9f304-3c30-4b29-a68e-7c1c7966c343
